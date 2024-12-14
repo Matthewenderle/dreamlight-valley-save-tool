@@ -2,6 +2,8 @@
 
 `dreamlight-valley-save-tool` is an awesome tool designed to decrypt Disney Dreamlight Valley save game profiles. These profiles are encrypted JSON files, and this tool not only decrypts them but also allows you to modify the files to increase items or remove bugged items.
 
+[Live Demo](https://dreamlight-valley-save-tool.pages.dev/)
+
 ## Features
 
 - **Decrypt Save Files**: Easily decrypt your Disney Dreamlight Valley save game profiles.
