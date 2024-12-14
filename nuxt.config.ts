@@ -14,6 +14,12 @@ export default defineNuxtConfig({
 
   modules: ['nuxt-icon', '@nuxtjs/eslint-module', '@nuxtjs/tailwindcss', 'nuxt-shiki'],
 
+  nitro: {
+    externals: {
+      inline: ['readable-stream'],
+    },
+  },
+
   shiki: {
     bundledLangs: ['json'],
   },
